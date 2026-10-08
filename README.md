@@ -35,6 +35,7 @@ ATOM GLOBAL is an international holding company with a portfolio of more than 20
 - 30+ speakers on the main stage
 - 3 days (16, 17 and 18 October)
 - Official website of the AI Technology Forum in Belarus: https://atomexpo.by/
+<img width="1038" height="655" alt="Снимок экрана — 2026-10-08 в 22 50 14" src="https://github.com/user-attachments/assets/aa1d1c4e-ee50-4fad-ad06-04303b64e46c" />
 
 # II. Value for Qubic
 ## 1.Strategic Positioning and Brand Exposure
