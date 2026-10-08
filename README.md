@@ -12,6 +12,10 @@ Option	Description
 - 1	Yes — approve the budget 17.1 Billion QU at $380 per billion.
 ___________________________________________________________
 AI ATOM GLOBAL EXPO 2026 is where entrepreneurs and experts turn ideas into working solutions. Developers, founders, researchers, and everyone building the future will gather under one roof to showcase the country's best AI work. 
+
+ATOM GLOBAL is an international holding company with a portfolio of more than 20 AI-based products across artificial intelligence, robotics, SportTech, Fintech, and other high-tech industries.
+
+ATOM GLOBAL looks for companies that have built AI into their products and business processes, investing in promising solutions and supporting their scaling and entry into the international market.
 - Website: https://atomexpo.by/
 - Date: 16–18 October 2026
 - Location: BelExpo, Minsk, Belarus. https://belexpo.by/
