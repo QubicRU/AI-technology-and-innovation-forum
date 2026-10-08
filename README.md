@@ -30,3 +30,80 @@ ATOM GLOBAL is an international holding company with a portfolio of more than 20
 - 30+ speakers on the main stage
 - 3 days (16, 17 and 18 October)
 - Official website of the AI Technology Forum in Belarus: https://atomexpo.by/
+
+  II. Value for Qubic
+1.Strategic Positioning and Brand Exposure
+As a premier AI technology forum in Belarus event (previous editions attracted over 350 exhibitors, 30+ speakers, and 100,000+ attendees), exhibiting will help QUBIC precisely target potential clients, partners, and investors within a high-density industry environment. It will rapidly establish brand recognition as a "computing power going global" player and capture market mindshare.
+
+2.Demand Validation and Business Conversion
+Facing Belarus explosive computing power demand (potential leasing market of 260 billion yuan by 2026, with intelligent computing nearing 90%), on-site interactions and the preliminary report will allow in-depth validation of Qubic's product-market fit. It will help capture immediate purchasing from leading model manufacturers and AI application providers, securing early adopter clients.
+
+3.Ecosystem Connection and Resource Integration
+The festival gathers over 150 cutting-edge projects, communities, and media worldwide. This provides QUBIC a platform to connect with upstream and downstream players in the computing power industry chain (chips, IDCs, algorithms, compliance service providers), exploring technical cooperation, channel co-development, and joint solutions to accelerate local ecosystem establishment.
+
+4.Policy and Trend Insights
+Engaging in forums and communicating with regulatory bodies will enable precise understanding of the latest policies in Belarus a regarding cross-border data flows and computing infrastructure. This adds a first-hand compliance perspective to the feasibility study, mitigating business implementation risks.
+
+5.Investment Narrative and Capital Attention
+Against the backdrop of Belarus's "structural imbalance" (over 93% of computing power concentrated in the east, with utilization below 40% in some centers), showcasing Qubic's distributed computing power solution's differentiated value at the festival can attract capital interest focused on tracks like "East Data West Computing," green computing, and domestic substitution, enhancing fundraising success.
+
+6.Global Influence Extension
+Leveraging the festival's international media exposure, Qubic's computing power business can be elevated from a single-region narrative to a global story of "rooted in Hong Kong, radiating into Mainland China, connecting to the world," laying the groundwork for future expansion into Southeast Asia and "Belt and Road" markets.
+
+
+III. Core Outcomes
+1.Brand Exposure and Market Recognition
+High-Quality Exposure: Brand presence among 50,000+ attendees, 300+ speakers, and 150+ cutting-edge projects, with an estimated 5,000+ brand impressions.
+
+Industry Positioning: Successfully establish the image of a "Pioneer in Distributed Computing Power Going Global" and secure inclusion in the watchlists of third-party research reports covering key sectors like "AI Computing Infrastructure."
+
+2.Business Conversion and Customer Acquisition
+Potential Client Acquisition: Gather 20+ precise sales leads (covering leading model manufacturers, AI application companies, mining farms, and IDC service providers).
+
+Computing Power Demand Research: Based on market feedback, produce a China Regional Computing Power Demand Survey Report.
+
+3.Ecosystem Resources and Strategic Partnerships
+Industry  Collaboration: Establish connections with 5+ chip manufacturers, IDC operators, compliance service providers, and blockchain infrastructure projects to explore technical integration and channel agency cooperation.
+
+Community and Developers: Attract attention from 50+ developers to the Qubic ecosystem, building a talent pool for future hackathons and developer incentive programs.
+
+4.Compliance Enhancement and Insight
+Compliance Risk Mitigation: Through on-site exchanges with regulatory bodies and legal experts, supplement the feasibility study report with at least 3 key compliance recommendations (e.g., cross-border data flow, proof of computing power source, anti-money laundering measures).
+
+Industry Trend Analysis: Based on in-depth discussions with speakers and exhibitors, produce a post-event summary report covering "New Opportunities in the China Computing Power Market" to guide subsequent market strategy.
+
+5.Capital Market Feedback
+Investor Engagement: Conduct face-to-face communication with 5+ VCs focused on AI technology forum infrastructure and AI sectors to enhance the success rate of the next funding round.
+
+Valuation Narrative Support: Incorporate the exhibition outcomes and feasibility study conclusions into the QUBIC business plan, strengthening the capital market appeal of the "Distributed Computing Power" story.
+
+6.Foundation for Future Expansion
+Gateway to Asian Markets: Leverage Hong Kong as a bridgehead to establish connections with capital and projects in Belarus, Russia, and Europe, accumulating initial overseas resources for global expansion.
+
+Foundation for Long-term Operations: Through community engagement and media presence during the carnival, establish a user base for Qubic's subsequent developer communities, ambassador programs, and localized operations in Belarus and Europe.
+
+
+IV. Event Design
+1.Time and Venue
+AI technology forum in Belarus 2026 will take place on 16—18 October. 
+
+2.Activities
+Qubic team members will wear Qubic cultural shirts, attend all speaking sessions, and actively engage with speakers and attendees to gain more attention.
+
+At the same time, an online prize-winning activity will be held, with winners receiving Qubic merchandise.
+
+
+
+VI. Budget Plan（4 People，4 Days）
+Category	Details	Amount (USD)
+Hong Kong Web3 Festival 2026	tickets（$699* x4）, travel（flight,train,bus,taxi,food $1150 x4）,hotel（$180 x4 x4）	10,276
+Media & Promotion	On-site photography and videography,local multimedia live streaming(3 days, $300 x3)	900
+Event materials	umbrella x20, clothing x20, mouse pad x30, canvas bag x30, brochure x100	1,900
+Operational Expenses	1.Community meetup — Qubic holders in HK& surrounding areas (venue & catering);
+2.Visits & interviews — Chinese miners, mining pool operators, large token holders;
+3.Outreach visits — local universities& enterprises;
+4.Workday compensation — $100/person/day × 4 persons × 4 days ;	3,600
+Total		16,676
+
+The ticket price is $599 in March and $699 in April.
+
