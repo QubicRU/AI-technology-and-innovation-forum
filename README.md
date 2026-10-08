@@ -53,7 +53,7 @@ Engaging in forums and communicating with regulatory bodies will enable precise 
 Against the backdrop of “structural imbalance” in Belarus (more than 93% of computing power is concentrated in Europe, while in some centers the utilization rate is less than 40%), demonstrating the unique advantages of the Qubic solution for distributed computing at the festival could attract the interest of investors focused on areas such as “Western computing,” “green computing,” and the replacement of foreign technologies with domestic ones, thereby increasing the chances of successfully raising funds.
 
 ## 6.Global Influence Extension
-Leveraging the festival's international media exposure, Qubic's computing power business can be elevated from a single-region narrative to a global story of "rooted in Hong Kong, radiating into Mainland China, connecting to the world," laying the groundwork for future expansion into Southeast Asia and "Belt and Road" markets.
+Leveraging the festival's international media exposure, Qubic's computing power business can be elevated from a single-region narrative to a global story of "rooted in throughout Western and Eastern Europe and Asia.
 
 
 # III. Core Outcomes
