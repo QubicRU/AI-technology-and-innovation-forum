@@ -58,7 +58,7 @@ Leveraging the festival's international media exposure, Qubic's computing power 
 
 # III. Core Outcomes
 ## 1.Brand Exposure and Market Recognition
-High-Quality Exposure: Brand presence among 50,000+ attendees, 300+ speakers, and 150+ cutting-edge projects, with an estimated 5,000+ brand impressions.
+High-Quality Exposure: Brand presence among 100,000+ attendees, 30+ speakers, and 150+ cutting-edge projects, with an estimated 5,000+ brand impressions.
 
 Industry Positioning: Successfully establish the image of a "Pioneer in Distributed Computing Power Going Global" and secure inclusion in the watchlists of third-party research reports covering key sectors like "AI Computing Infrastructure."
 
@@ -83,7 +83,7 @@ Investor Engagement: Conduct face-to-face communication with 5+ VCs focused on A
 Valuation Narrative Support: Incorporate the exhibition outcomes and feasibility study conclusions into the QUBIC business plan, strengthening the capital market appeal of the "Distributed Computing Power" story.
 
 ## 6.Foundation for Future Expansion
-Gateway to Asian Markets: Leverage Hong Kong as a bridgehead to establish connections with capital and projects in Belarus, Russia, and Europe, accumulating initial overseas resources for global expansion.
+Gateway to  The European Market: Leverage as a bridgehead to establish connections with capital and projects in Belarus, Russia, and Europe, accumulating initial overseas resources for global expansion.
 
 Foundation for Long-term Operations: Through community engagement and media presence during the carnival, establish a user base for Qubic's subsequent developer communities, ambassador programs, and localized operations in Belarus and Europe.
 
