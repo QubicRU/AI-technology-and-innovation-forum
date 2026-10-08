@@ -40,7 +40,7 @@ ATOM GLOBAL is an international holding company with a portfolio of more than 20
 As a premier AI technology forum in Belarus event (previous editions attracted over 350 exhibitors, 30+ speakers, and 100,000+ attendees), exhibiting will help QUBIC precisely target potential clients, partners, and investors within a high-density industry environment. It will rapidly establish brand recognition as a "computing power going global" player and capture market mindshare.
 
 ## 2.Demand Validation and Business Conversion
-Facing Belarus explosive computing power demand (potential leasing market of 260 billion yuan by 2026, with intelligent computing nearing 90%), on-site interactions and the preliminary report will allow in-depth validation of Qubic's product-market fit. It will help capture immediate purchasing from leading model manufacturers and AI application providers, securing early adopter clients.
+Facing Belarus explosive computing power demand (potential leasing market of $260 million by 2026, with intelligent computing nearing 90%), on-site interactions and the preliminary report will allow in-depth validation of Qubic's product-market fit. It will help capture immediate purchasing from leading model manufacturers and AI application providers, securing early adopter clients.
 
 ## 3.Ecosystem Connection and Resource Integration
 The festival gathers over 150 cutting-edge projects, communities, and media worldwide. This provides QUBIC a platform to connect with upstream and downstream players in the computing power industry chain (chips, IDCs, algorithms, compliance service providers), exploring technical cooperation, channel co-development, and joint solutions to accelerate local ecosystem establishment.
