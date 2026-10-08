@@ -98,15 +98,12 @@ Qubic team members will wear Qubic cultural shirts, attend all speaking sessions
 
 At the same time, an online prize-winning activity will be held, with winners receiving Qubic merchandise.
 
+# VI. Budget Plan（4 People，4 Days）
 | Category    | Details                                       | Compensation |
 |----------|----------------------------------------------------|-----------------|
 | AI technology forum | tickets（$199* x4）, travel（flight,train,bus,taxi,food $550 x4）,hotel（$180 x4）       | $3720    |
 | Media & Promotion  | On-site photography and videography,local multimedia live streaming(3 days, $100 x3)        | $300    |
 | Event materials | umbrella x20, clothing x20, mouse pad x30, canvas bag x30, brochure x100|$900     |
 Total		$4920
-# VI. Budget Plan（4 People，4 Days）
-Category	Details	Amount (USD)
 
-
-The ticket price is $599 in March and $699 in April.
 
