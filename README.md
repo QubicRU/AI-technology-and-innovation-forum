@@ -11,6 +11,20 @@ Option	Description
 - 0	No — do not approve the budget 8,95 Billion QU at $550 per billion.
 - 1	Yes — approve the budget 8,95 Billion QU at $550 per billion.
 ___________________________________________________________
+CHINUK(Discord). 
+I am an ambassador for the Russian-speaking community:
+Russian-language channels
+X aNNa: aigarth_
+X: Qubic_RU
+Telegram: Qubic_RU
+Instagram: Qubic_RUS
+TikTok: Qubic_RU
+Reddit: Qubic_RU
+Treads: Qubic_RUS
+YouTube: Qubic_RU
+Medium: Qubic_RU
+CoinMarketCap: Qubic_RU
+
 AI ATOM GLOBAL EXPO 2026 is where entrepreneurs and experts turn ideas into working solutions. Developers, founders, researchers, and everyone building the future will gather under one roof to showcase the country's best AI work. 
 
 ATOM GLOBAL is an international holding company with a portfolio of more than 20 AI-based products across artificial intelligence, robotics, SportTech, Fintech, and other high-tech industries.
@@ -107,6 +121,18 @@ At the same time, an online prize-winning activity will be held, with winners re
 Total		$4920
 
 ___________________________________________________________
+我是俄語社群的大使：
+俄語頻道
+X aNNa：aigarth_
+X：Qubic_RU
+Tg：Qubic_RU
+Inst：Qubic_RUS
+TikTok：Qubic_RU
+Reddit：Qubic_RU
+Treads：Qubic_RUS
+YouTube：Qubic_RU
+Medium：Qubic_RU
+CoinMarketCap：Qubic_RU
 
 「2026 年 AI ATOM GLOBAL 博覽會」是企業家與專家將構想轉化為實用解決方案的舞台。開發者、創辦人、研究人員，以及所有致力於打造未來的人士，都將齊聚一堂，展示國內最頂尖的人工智慧成果。
 
