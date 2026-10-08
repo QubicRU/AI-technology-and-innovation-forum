@@ -27,6 +27,7 @@ ATOM GLOBAL is an international holding company with a portfolio of more than 20
 
 # 1. The position of the Belarusian AI Technology Forum in the industry:
 - AI ATOM GLOBAL EXPO 2026. A space where every project is a step toward a new reality.
+- Not just talks. Three days of live demos, shows and meet-ups — things you cannot watch in a recording.
 - Technology that works right there on the floor
 - Twelve spaces — you choose where to go
 - 20,000 m² covering every track
