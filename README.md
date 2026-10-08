@@ -50,7 +50,7 @@ The festival gathers over 150 cutting-edge projects, communities, and media worl
 Engaging in forums and communicating with regulatory bodies will enable precise understanding of the latest policies in Belarus a regarding cross-border data flows and computing infrastructure. This adds a first-hand compliance perspective to the feasibility study, mitigating business implementation risks.
 
 ## 5.Investment Narrative and Capital Attention
-Against the backdrop of Belarus's "structural imbalance" (over 93% of computing power concentrated in the east, with utilization below 40% in some centers), showcasing Qubic's distributed computing power solution's differentiated value at the festival can attract capital interest focused on tracks like "East Data West Computing," green computing, and domestic substitution, enhancing fundraising success.
+Against the backdrop of “structural imbalance” in Belarus (more than 93% of computing power is concentrated in Europe, while in some centers the utilization rate is less than 40%), demonstrating the unique advantages of the Qubic solution for distributed computing at the festival could attract the interest of investors focused on areas such as “Western computing,” “green computing,” and the replacement of foreign technologies with domestic ones, thereby increasing the chances of successfully raising funds.
 
 ## 6.Global Influence Extension
 Leveraging the festival's international media exposure, Qubic's computing power business can be elevated from a single-region narrative to a global story of "rooted in Hong Kong, radiating into Mainland China, connecting to the world," laying the groundwork for future expansion into Southeast Asia and "Belt and Road" markets.
