@@ -2,14 +2,14 @@
 
 # Overview
 - Event: Developers, founders, researchers, and everyone building the future will gather under one roof to showcase the country's best AI work.
-- Amount: 17.1 Billion QUBIC
+- Amount: 8,95 Billion QUBIC
 - Destination Wallet: ETTLBACYUCMPCCGGLPFPGROOIYJBRQSRVOITYIYWFFSFMISJOZZUQFRBUGUG
-- Rate Used: 1 Billion QUBIC = 380 USDT
+- Rate Used: 1 Billion QUBIC = 550 USDT
 __________________________________________________________
 # Decision Options
 Option	Description
-- 0	No — do not approve the budget 17.1 Billion QU at $380 per billion.
-- 1	Yes — approve the budget 17.1 Billion QU at $380 per billion.
+- 0	No — do not approve the budget 8,95 Billion QU at $550 per billion.
+- 1	Yes — approve the budget 8,95 Billion QU at $550 per billion.
 ___________________________________________________________
 AI ATOM GLOBAL EXPO 2026 is where entrepreneurs and experts turn ideas into working solutions. Developers, founders, researchers, and everyone building the future will gather under one roof to showcase the country's best AI work. 
 
