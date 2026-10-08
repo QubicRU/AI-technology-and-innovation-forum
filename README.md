@@ -98,18 +98,15 @@ Qubic team members will wear Qubic cultural shirts, attend all speaking sessions
 
 At the same time, an online prize-winning activity will be held, with winners receiving Qubic merchandise.
 
-
-
+| Category    | Details                                       | Compensation |
+|----------|----------------------------------------------------|-----------------|
+| AI technology forum | tickets（$199* x4）, travel（flight,train,bus,taxi,food $550 x4）,hotel（$180 x4）       | $3720    |
+| Media & Promotion  | On-site photography and videography,local multimedia live streaming(3 days, $100 x3)        | $300    |
+| Event materials | umbrella x20, clothing x20, mouse pad x30, canvas bag x30, brochure x100|$900     |
+Total		$4920
 # VI. Budget Plan（4 People，4 Days）
 Category	Details	Amount (USD)
-Hong Kong Web3 Festival 2026	tickets（$699* x4）, travel（flight,train,bus,taxi,food $1150 x4）,hotel（$180 x4 x4）	10,276
-Media & Promotion	On-site photography and videography,local multimedia live streaming(3 days, $300 x3)	900
-Event materials	umbrella x20, clothing x20, mouse pad x30, canvas bag x30, brochure x100	1,900
-Operational Expenses	1.Community meetup — Qubic holders in HK& surrounding areas (venue & catering);
-2.Visits & interviews — Chinese miners, mining pool operators, large token holders;
-3.Outreach visits — local universities& enterprises;
-4.Workday compensation — $100/person/day × 4 persons × 4 days ;	3,600
-Total		16,676
+
 
 The ticket price is $599 in March and $699 in April.
 
